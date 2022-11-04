@@ -1,15 +1,33 @@
 import axios from "axios";
-import { createContext, useContext, useEffect } from "react";
+import { createContext, useContext, useEffect, useReducer } from "react";
+import reducer from '../reducers/productReducer';
 
 const AppContext = createContext();
 
 const API = "https://raw.githubusercontent.com/fazlerabbytalukder/toys-town/main/public/Data.json";
 
+const initialState = {
+    isLoading: false,
+    isError: false,
+    products: [],
+    featureProducts: []
+}
+
 const AppProvider = ({ children }) => {
+
+    const [state, dispatch] = useReducer(reducer, initialState);
+
+
+
     const getProducts = async (url) => {
-        const res = await axios.get(url);
-        const products = await res.data;
-        console.log(products);
+        dispatch({type:"SET_LOADING"})
+        try {
+            const res = await axios.get(url);
+            const products = await res.data;
+            dispatch({ type: "SET_API_DATA", payload: products });
+        } catch (error) {
+            dispatch({type:"API_ERROR"})
+        }
     }
 
 
@@ -18,7 +36,7 @@ const AppProvider = ({ children }) => {
     }, []);
 
 
-    return <AppContext.Provider value={{myName: "Rabby"}}>
+    return <AppContext.Provider value={{ ...state }}>
         {children}
     </AppContext.Provider>
 }
