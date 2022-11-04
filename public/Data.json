@@ -12,7 +12,7 @@
         "image":"https://i.ibb.co/n8T1bhw/2-229x229.jpg",
         "category":"bags",
         "description":"Some toys are specifically designed for play, like a small wooden train set or a baby's shape sorter. You can also make toys out of everyday objects and materials—a piece of paper can take the shape of a toy airplane, and a saucepan can become a toy drum. Very small dogs are another kind of toy, like a toy poodle. When you use it as a verb, toy means move or handle absent-mindedly.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 2,
@@ -27,7 +27,7 @@
         "image":"https://i.ibb.co/4W0zRgm/3-229x229.jpg",
         "category":"ring-toys",
         "description":"Some toys are specifically designed for play, like a small wooden train set or a baby's shape sorter. You can also make toys out of everyday objects and materials—a piece of paper can take the shape of a toy airplane, and a saucepan can become a toy drum. Very small dogs are another kind of toy, like a toy poodle. When you use it as a verb, toy means move or handle absent-mindedly.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 3,
@@ -42,7 +42,7 @@
         "image":"https://i.ibb.co/0DgqySH/4-229x229.jpg",
         "category":"soft-toys",
         "description":"Some toys are specifically designed for play, like a small wooden train set or a baby's shape sorter. You can also make toys out of everyday objects and materials—a piece of paper can take the shape of a toy airplane, and a saucepan can become a toy drum. Very small dogs are another kind of toy, like a toy poodle. When you use it as a verb, toy means move or handle absent-mindedly.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 4,
@@ -102,7 +102,7 @@
         "image":"https://i.ibb.co/C8BWZ1L/8-229x229.jpg",
         "category":"cars",
         "description":"Some toys are specifically designed for play, like a small wooden train set or a baby's shape sorter. You can also make toys out of everyday objects and materials—a piece of paper can take the shape of a toy airplane, and a saucepan can become a toy drum. Very small dogs are another kind of toy, like a toy poodle. When you use it as a verb, toy means move or handle absent-mindedly.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 8,
@@ -117,7 +117,7 @@
         "image":"https://i.ibb.co/NYwPJzw/9-229x229.jpg",
         "category":"soft-toys",
         "description":"Some toys are specifically designed for play, like a small wooden train set or a baby's shape sorter. You can also make toys out of everyday objects and materials—a piece of paper can take the shape of a toy airplane, and a saucepan can become a toy drum. Very small dogs are another kind of toy, like a toy poodle. When you use it as a verb, toy means move or handle absent-mindedly.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 9,
@@ -132,7 +132,7 @@
         "image":"https://i.ibb.co/LtKzNdQ/13-229x229.jpg",
         "category":"cars",
         "description":"Some toys are specifically designed for play, like a small wooden train set or a baby's shape sorter. You can also make toys out of everyday objects and materials—a piece of paper can take the shape of a toy airplane, and a saucepan can become a toy drum. Very small dogs are another kind of toy, like a toy poodle. When you use it as a verb, toy means move or handle absent-mindedly.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 10,
@@ -147,7 +147,7 @@
         "image":"https://i.ibb.co/4KG9sF5/10-229x229.jpg",
         "category":"cars",
         "description":"Some toys are specifically designed for play, like a small wooden train set or a baby's shape sorter. You can also make toys out of everyday objects and materials—a piece of paper can take the shape of a toy airplane, and a saucepan can become a toy drum. Very small dogs are another kind of toy, like a toy poodle. When you use it as a verb, toy means move or handle absent-mindedly.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 11,
@@ -162,7 +162,7 @@
         "image":"https://i.ibb.co/X5dCns2/14-229x229.jpg",
         "category":"cars",
         "description":"Some toys are specifically designed for play, like a small wooden train set or a baby's shape sorter. You can also make toys out of everyday objects and materials—a piece of paper can take the shape of a toy airplane, and a saucepan can become a toy drum. Very small dogs are another kind of toy, like a toy poodle. When you use it as a verb, toy means move or handle absent-mindedly.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 12,
@@ -177,7 +177,7 @@
         "image":"https://i.ibb.co/bBCQrk4/15-229x229.jpg",
         "category":"soft-toys",
         "description":"Some toys are specifically designed for play, like a small wooden train set or a baby's shape sorter. You can also make toys out of everyday objects and materials—a piece of paper can take the shape of a toy airplane, and a saucepan can become a toy drum. Very small dogs are another kind of toy, like a toy poodle. When you use it as a verb, toy means move or handle absent-mindedly.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 13,
@@ -192,7 +192,7 @@
         "image":"https://i.ibb.co/nRSSTht/16-229x229.jpg",
         "category":"soft-toys",
         "description":"Some toys are specifically designed for play, like a small wooden train set or a baby's shape sorter. You can also make toys out of everyday objects and materials—a piece of paper can take the shape of a toy airplane, and a saucepan can become a toy drum. Very small dogs are another kind of toy, like a toy poodle. When you use it as a verb, toy means move or handle absent-mindedly.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 14,
@@ -207,7 +207,7 @@
         "image":"https://i.ibb.co/5nMqXb6/18-229x229.jpg",
         "category":"ring-toys",
         "description":"Some toys are specifically designed for play, like a small wooden train set or a baby's shape sorter. You can also make toys out of everyday objects and materials—a piece of paper can take the shape of a toy airplane, and a saucepan can become a toy drum. Very small dogs are another kind of toy, like a toy poodle. When you use it as a verb, toy means move or handle absent-mindedly.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 15,
@@ -222,7 +222,7 @@
         "image":"https://i.ibb.co/NLHbFCS/19-229x229.jpg",
         "category":"soft-toys",
         "description":"Some toys are specifically designed for play, like a small wooden train set or a baby's shape sorter. You can also make toys out of everyday objects and materials—a piece of paper can take the shape of a toy airplane, and a saucepan can become a toy drum. Very small dogs are another kind of toy, like a toy poodle. When you use it as a verb, toy means move or handle absent-mindedly.",
-        "featured": true
+        "featured": false
     },
     {
         "id": 16,
@@ -237,7 +237,7 @@
         "image":"https://i.ibb.co/tc5nRjq/20-229x229.jpg",
         "category":"cars",
         "description":"Some toys are specifically designed for play, like a small wooden train set or a baby's shape sorter. You can also make toys out of everyday objects and materials—a piece of paper can take the shape of a toy airplane, and a saucepan can become a toy drum. Very small dogs are another kind of toy, like a toy poodle. When you use it as a verb, toy means move or handle absent-mindedly.",
-        "featured": true
+        "featured": false
     }
 ]
 
