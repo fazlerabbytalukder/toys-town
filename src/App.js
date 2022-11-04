@@ -1,11 +1,11 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import About from './components/About/About';
-import Cart from './components/Cart/Cart';
-import Contacts from './components/Contact/Contacts';
-import Error from './components/Error/Error';
-import Home from './components/Home/Home';
-import Products from './components/Products/Products';
-import SingleProduct from './components/SingleProduct/SingleProduct';
+import About from './pages/About/About';
+import Cart from './pages/Cart/Cart';
+import Contacts from './pages/Contact/Contacts';
+import Error from './pages/Error/Error';
+import Home from './pages/Home/Home';
+import Products from './pages/Products/Products';
+import SingleProduct from './pages/SingleProduct/SingleProduct';
 
 function App() {
   return (
