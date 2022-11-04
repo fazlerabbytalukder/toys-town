@@ -1,4 +1,5 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import Header from './component/Header/Header';
 import About from './pages/About/About';
 import Cart from './pages/Cart/Cart';
 import Contacts from './pages/Contact/Contacts';
@@ -10,6 +11,7 @@ import SingleProduct from './pages/SingleProduct/SingleProduct';
 function App() {
   return (
     <BrowserRouter>
+      <Header/>
       <Routes>
         <Route path='/' element={<Home/>} />
         <Route path='/about' element={<About/>} />
