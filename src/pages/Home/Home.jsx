@@ -1,9 +1,13 @@
 import React from 'react';
+import HeroSection from '../../component/HeroSection/HeroSection';
 
 const Home = () => {
+    const data = {
+        title:"Toys Town"
+    }
     return (
         <div>
-            home
+            <HeroSection myTitle={data}/>
         </div>
     );
 };
