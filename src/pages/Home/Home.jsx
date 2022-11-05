@@ -1,4 +1,5 @@
 import React from 'react';
+import FeatureProducts from '../../component/FeatureProducts/FeatureProducts';
 import HeroSection from '../../component/HeroSection/HeroSection';
 
 const Home = () => {
@@ -7,7 +8,8 @@ const Home = () => {
     }
     return (
         <div>
-            <HeroSection myTitle={data}/>
+            <HeroSection myTitle={data} />
+            <FeatureProducts/>
         </div>
     );
 };
